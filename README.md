@@ -6,4 +6,5 @@ A little script to scale instagram profile pictures to original size
 3. The picture will open in a third tab.
 
 Info: Just copy and paste the code into the dev console
+
 Tested on Chrome on Windows	Version 68.0.3440.106
